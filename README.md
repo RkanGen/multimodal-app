@@ -4,12 +4,12 @@ The frontend  interact
 with this FastAPI backend to:
 upload files, 
 select models, and display the results.
-This setup provides a complete end-to-end solution for handling multimodal model :
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-RUN this in Bash
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Front-end
-npx create-react-app multimodal-app
+This setup provides a complete end-to-end solution for handling multimodal model :<br>
++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br>
+RUN this in Bash<br>
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br>
+Front-end<br>
+npx create-react-app multimodal-app <br>
 cd multimodal-app
 npm install @mui/material @emotion/react @emotion/styled axios
 npm start
