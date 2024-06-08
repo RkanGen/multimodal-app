@@ -10,13 +10,13 @@ RUN this in Bash<br>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br>
 Front-end<br>
 npx create-react-app multimodal-app <br>
-cd multimodal-app
-npm install @mui/material @emotion/react @emotion/styled axios
-npm start
+cd multimodal-app<br>
+npm install @mui/material @emotion/react @emotion/styled axios<br>
+npm start<br>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Back-end
-pip install fastapi uvicorn
-uvicorn app:app --reload
+Back-end<br>
+pip install fastapi uvicorn<br>
+uvicorn app:app --reload<br>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
- The purpose of this project;
+ The purpose of this project;<br>
 the integration of StyleGAN3, SDXL, and DALL-E models into your FastAPI backend. The backend handles file uploads, processes them with the selected model, and returns the processed results to the frontend. Adjust the processing functions according to the actual inference code of the models you are using.
