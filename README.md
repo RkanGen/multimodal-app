@@ -1,4 +1,4 @@
-# React + Vite +Fast APi
+# Multimodal-app
 
 The frontend  interact with this FastAPI backend to: 
 1. upload files, 
